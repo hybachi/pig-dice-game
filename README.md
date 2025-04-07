@@ -6,7 +6,7 @@ To learn more about the game itself, click [here](<https://en.wikipedia.org/wiki
 
 ## Demo
 
-Live Preview : https://hynwar.github.io/pig-dice-game/
+Live Preview : https://hybachi.github.io/pig-dice-game/
 
 ## Game Logic
 
